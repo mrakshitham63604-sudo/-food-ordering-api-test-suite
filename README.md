@@ -59,7 +59,7 @@ food-ordering-api-test-suite/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/mrakshitham63604-sudo/-food-ordering-api-test-suite.git
 ```
 
 Navigate to the project directory:
